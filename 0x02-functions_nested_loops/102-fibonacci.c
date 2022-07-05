@@ -19,7 +19,8 @@ for (i = 1; i <= 50; ++i)
 {
 	printf("%ld, ", j);
 
-} else
+} 
+else
 	{
 	printf("%ld\n", j);
 	}
